@@ -1,6 +1,6 @@
 tasks = []
 
-print("Welcome to Task Tracker !!!")
+print("Welcome to Task Tracker")
 
 while True:
     print("\nCommands: add | view | complete | exit")
@@ -41,7 +41,7 @@ while True:
                 print("Please enter a valid number.")
 
     elif command == "exit":
-        print("Goodbye!")
+        print("Goodbye!!!!!")
         break
 
     else:
